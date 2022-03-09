@@ -6,7 +6,7 @@ Submitted by: **Steven Liang**
 
 Time spent: **2** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/memory-game-steven-liang
+Link to project: https://memory-game-steven-liang.glitch.me
 
 
 ## Required Functionality
